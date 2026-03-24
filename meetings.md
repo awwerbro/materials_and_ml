@@ -1,6 +1,6 @@
-# Biweekly meetings
+# Meetings
 
-Meetings alternate between three formats, depending on interest:
+Meetings are bi-weekly and alternate between three formats:
 
 | Format | Description |
 |--------|-------------|
@@ -8,14 +8,15 @@ Meetings alternate between three formats, depending on interest:
 | **Discussion** | Open topic discussion. Notes condensed and added to this repository. |
 | **Lecture style** | Hands-on session on a tool, method, or concept. |
 
-Reading material is announced through the [mailing list](../mailinglist.md) the week before each meeting.
+Reading material is announced through the [mailing list](mailinglist.md) the week before each meeting.
 
-## Schedule
+## Upcoming
 
 | Date | Format | Topic |
 |------|--------|-------|
 | 2025-04-20 | TBD | Kickoff — first meeting |
 
-## Meeting notes
+## Past
 
-- [2025-04-20](2025-04-20.md)
+| Date | Format | Topic | Notes |
+|------|--------|-------|-------|

@@ -10,9 +10,9 @@ Our goal is to move beyond the hype and focus on real-world applications that im
 - [Events](events.md)
 - [Packages](packages.md)
 - [Mailing list](mailinglist.md)
-- [Code inspiration](code_inspiration.md)
+- [Code](code/README.md)
 - [Related initiatives](related_initiatives.md)
-- [Biweekly meetings](meetings/README.md)
+- [Biweekly meetings](meetings.md)
 
 ## Contributing
 

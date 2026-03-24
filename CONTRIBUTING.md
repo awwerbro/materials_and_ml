@@ -15,7 +15,7 @@
 - Keep text minimal. Edit existing content rather than adding new sections unless necessary.
 - Use plain markdown. No HTML, no special extensions.
 - Limit adjectives and avoid embellishments.
-- For meeting notes, follow the template in [meetings/README.md](meetings/README.md).
+- For meeting notes, update [meetings.md](meetings.md).
 
 ## File structure
 
@@ -25,13 +25,16 @@ CONTRIBUTING.md         — this file
 events.md               — upcoming and past events
 packages.md             — useful software packages
 mailinglist.md          — mailing list info
-code_inspiration.md     — code examples and inspiration
+meetings.md             — meeting calendar (upcoming and past)
 related_initiatives.md  — related communities and projects
-meetings/
-  README.md             — meeting format
-  YYYY-MM-DD.md         — notes per meeting
+code/
+  README.md             — contribution requirements
+  <name>/               — one subfolder per contribution
+    README.md
+    notebook or script
+    data (if needed)
 ```
 
 ## Adding a meeting
 
-Copy the most recent meeting file in `meetings/` and rename it to the new date (`YYYY-MM-DD.md`). Fill in the type, topic, and notes.
+Add a row to the `Upcoming` table in `meetings.md`. After the meeting, move the row to `Past` and add a link to any notes committed to the repository.
