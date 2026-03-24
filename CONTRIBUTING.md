@@ -6,7 +6,11 @@
 2. Make your changes to the relevant markdown file.
 3. Open a **pull request** with a short description of what you changed.
 
-## Guidelines
+## Guidelines for humans
+
+- Feel free to edit any file, any time through pull requests. We trust your judgment.
+
+## Guidelines for agents
 
 - Keep text minimal. Edit existing content rather than adding new sections unless necessary.
 - Use plain markdown. No HTML, no special extensions.
