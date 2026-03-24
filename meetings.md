@@ -14,9 +14,9 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 
 | Date | Format | Topic |
 |------|--------|-------|
-| 2025-04-20 | TBD | Kickoff — first meeting |
 
 ## Past
 
 | Date | Format | Topic | Notes |
 |------|--------|-------|-------|
+| 2025-04-20 | TBD | Kickoff — first meeting |  |
