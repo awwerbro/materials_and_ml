@@ -1,12 +1,12 @@
 # Biweekly meetings
 
-Meetings alternate between three formats:
+Meetings alternate between three formats, depending on interest:
 
 | Format | Description |
 |--------|-------------|
 | **Journal club** | Crowdsourced paper selection. Soft expectation that attendees have read it. One person guides discussion based on slides (rotating role). Expect to participate. |
 | **Discussion** | Open topic discussion. Notes condensed and added to this repository. |
-| **Tutorial / crash course / deep dive** | Hands-on session on a tool, method, or concept. |
+| **Lecture style** | Hands-on session on a tool, method, or concept. |
 
 Reading material is announced through the [mailing list](../mailinglist.md) the week before each meeting.
 
