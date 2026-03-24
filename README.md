@@ -7,12 +7,12 @@ Our goal is to move beyond the hype and focus on real-world applications that im
 
 ## Contents
 
-- [Events](events.md)
-- [Packages](packages.md)
 - [Mailing list](mailinglist.md)
+- [Biweekly meetings](meetings.md)
+- [Packages](packages.md)
 - [Code](code/README.md)
 - [Related initiatives](related_initiatives.md)
-- [Biweekly meetings](meetings.md)
+- [Other related events](events.md)
 
 ## Contributing
 
