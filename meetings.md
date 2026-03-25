@@ -14,9 +14,14 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 
 | Date | Format | Topic |
 |------|--------|-------|
+| 2026-04-20 | TBD | Kickoff — first meeting |  |
+| 2026-05-06 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK |
+| 2026-05-21 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK |
+| 2026-06-03 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK |
+| 2026-06-19 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK |
 
 ## Past
 
 | Date | Format | Topic | Notes |
 |------|--------|-------|-------|
-| 2025-04-20 | TBD | Kickoff — first meeting |  |
+

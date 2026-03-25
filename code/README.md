@@ -23,5 +23,3 @@ code/
 Open a pull request to add your contribution.
 
 ## Contributions
-
-<!-- List contributions here as links once added -->
