@@ -11,6 +11,7 @@ Our goal is to move beyond the hype and focus on real-world applications that im
 - [Biweekly meetings](meetings.md)
 - [Packages](packages.md)
 - [Code](code/README.md)
+- [Grants](grants.md)
 - [Related initiatives](related_initiatives.md)
 - [Other related events](events.md)
 
