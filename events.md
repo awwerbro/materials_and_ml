@@ -6,7 +6,7 @@ Upcoming and past events related to materials science and ML. These events are n
 
 | Date | Event | Abstract Deadline | Description |
 |------|-------|-------------------|-------------|
-| Apr 2, 2026 | [ML 2026 (IOP, London, UK)](https://iop.eventsair.com/ml2026/programme) | | Mini-symposium on machine learning for experimental materials data |
+
 | May 18-21, 2026 |[Machine Learning in Chemical and Material Sciences (Santa Fe, NM)](https://mlcm-26.github.io/)| April 17, 2026 |
 | May 21-22, 2026 | [AI-SEM (Hannover, Germany)](https://sites.google.com/view/aisem/home) | Apr 24, 2026 | AI-Aware Pathways to Sustainable Semiconductor Process and Manufacturing Technologies workshop |
 | September 21-25, 2026 |[AI for science summer school (Heidelberg, Germany)](https://www.iwr.uni-heidelberg.de/en/iwr-school-2026)|June 15, 2026|
@@ -19,3 +19,4 @@ Upcoming and past events related to materials science and ML. These events are n
 | Date | Event | Abstract Deadline | Description |
 |------|-------|-------------------|-------------|
 | Mar 31, 2026 | [AI and Science (Royal Society, London)](https://www.turing.ac.uk/events/ai-science) | | One-day conference on AI transforming scientific discovery |
+| Apr 2, 2026 | [ML 2026 (IOP, London, UK)](https://iop.eventsair.com/ml2026/programme) | | Mini-symposium on machine learning for experimental materials data |
