@@ -6,7 +6,6 @@ Upcoming and past events related to materials science and ML. These events are n
 
 | Date | Event | Abstract Deadline | Description |
 |------|-------|-------------------|-------------|
-
 | May 18-21, 2026 |[Machine Learning in Chemical and Material Sciences (Santa Fe, NM)](https://mlcm-26.github.io/)| April 17, 2026 |
 | May 21-22, 2026 | [AI-SEM (Hannover, Germany)](https://sites.google.com/view/aisem/home) | Apr 24, 2026 | AI-Aware Pathways to Sustainable Semiconductor Process and Manufacturing Technologies workshop |
 | September 21-25, 2026 |[AI for science summer school (Heidelberg, Germany)](https://www.iwr.uni-heidelberg.de/en/iwr-school-2026)|June 15, 2026|
