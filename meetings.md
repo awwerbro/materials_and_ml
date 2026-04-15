@@ -12,13 +12,13 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 
 ## Upcoming
 
-| Date | Format | Time |
-|------|--------|-------|
-| 2026-04-20 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK |  |
-| 2026-05-06 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK |
-| 2026-05-21 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK |
-| 2026-06-03 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK |
-| 2026-06-19 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK |
+| Date | Format | Time | Description |
+|------|--------|-------|------------|
+| 2026-04-20 | Journal club | 12:30-13:30 Brussels / 11:30-12:30 UK | https://arxiv.org/pdf/2512.17792 |
+| 2026-05-06 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
+| 2026-05-21 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
+| 2026-06-03 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
+| 2026-06-19 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
 
 ## Past
 
