@@ -1,6 +1,6 @@
 # Meetings
 
-Meetings are bi-weekly and alternate between three formats:
+Meetings are bi-weekly on Monday during lunchtime and alternate between three formats:
 
 | Format | Description |
 |--------|-------------|
@@ -8,20 +8,23 @@ Meetings are bi-weekly and alternate between three formats:
 | **Discussion** | Open topic discussion. Notes condensed and added to this repository. |
 | **Lecture style** | Hands-on session on a tool, method, or concept. |
 
-Reading material is announced through the [mailing list](mailinglist.md) the week before each meeting.
+
+Meetings (Zoom) are transcribed. We will never publish transcripts, but summarize the key takeaways of the meeting in the [meetings](meetings) folder.
+
+Reading material is announced through the [mailing list](mailinglist.md) the week before each meeting. Reading is strongly encouraged but not mandatory.
 
 ## Upcoming
 
 | Date | Format | Time | Description |
 |------|--------|-------|------------|
-| 2026-05-06 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
-| 2026-05-21 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
-| 2026-06-03 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
-| 2026-06-19 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
+| 2026-05-04 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
+| 2026-05-18 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
+| 2026-06-01 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
+| 2026-06-15 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
 
 ## Past
 
 | Date | Format | Topic | Notes |
 |------|--------|-------|-------|
-| 2026-04-20 | Journal club | 12:30-13:30 Brussels / 11:30-12:30 UK | https://arxiv.org/pdf/2512.17792 |
+| 2026-04-20 | Journal club | Bayesian Statistics and Error Propagation | [Paper](https://arxiv.org/pdf/2512.17792), [Meeting notes](meetings/2026-04-20.md) |
 
