@@ -1,10 +1,12 @@
-# Resources for experimentalists using data science, ML and AI.
+# MatSci + AI/ML data club
+
+**Resources for experimentalists using data science, ML and AI**
 
 We are a community of experimental material scientists who use **machine learning as a practical tool to accelerate lab research**. Our goal is to move beyond the hype and focus on real-world applications that improve data interpretation and experimental efficiency. Through bi-weekly interactive sessions and a shared open-access repository, we help researchers lower the barrier to entry and turn ML into a standard part of the experimentalist’s toolkit.
 
 Areas of interest include thin films, batteries, photovoltaics, perovskites, electrochemistry, and microscopy.
 
-[Sign up for the mailinglist here](mailinglist.md).
+[Sign up for the mailinglist here](mailinglist.md) for details about our next meetings.
 
 ## Contents
 
