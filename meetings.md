@@ -17,7 +17,7 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 
 | Date | Format | Time | Description |
 |------|--------|-------|------------|
-| 2026-05-18 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
+| 2026-05-18 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | Smoothing of experimental data |
 | 2026-06-01 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
 | 2026-06-15 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | |
 
@@ -25,6 +25,6 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 
 | Date | Format | Topic | Notes |
 |------|--------|-------|-------|
-| 2026-05-04 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK |  |
+| 2026-05-04 | TBD | 12:30-13:30 Brussels / 11:30-12:30 UK | Cancelled |
 | 2026-04-20 | Journal club | Bayesian Statistics and Error Propagation | [Paper](https://arxiv.org/pdf/2512.17792), [Meeting notes](meetings/2026-04-20.md) |
 
