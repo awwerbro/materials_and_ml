@@ -17,7 +17,8 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 
 | Date | Format | Time | Description |
 |------|--------|-------|------------|
-| 2026-06-15 | Presentation | 12:30-13:30 Brussels / 11:30-12:30 UK | |
+| 2026-06-15 | Presentation | 12:30-13:30 Brussels / 11:30-12:30 UK | using LLMs for scraping data |
+| 2026-06-29 | tbd | 12:30-13:30 Brussels / 11:30-12:30 UK | |
 
 ## Past
 
