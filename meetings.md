@@ -1,6 +1,6 @@
 # Meetings
 
-Meetings are bi-weekly on Monday during lunchtime and alternate between three formats:
+Meetings are bi-weekly on Thursday at 1 pm BST / 2 pm CEST and alternate between three formats:
 
 | Format | Description |
 |--------|-------------|
@@ -13,12 +13,18 @@ Meetings (Zoom) are transcribed. We will never publish transcripts, but summariz
 
 Reading material is announced through the [mailing list](mailinglist.md) the week before each meeting. Reading is strongly encouraged but not mandatory.
 
+**Summer Break:** The club is taking a break for summer and will resume in September. Thank you to everyone who has attended and contributed to our sessions!
+
 ## Upcoming
 
 | Date | Format | Time | Description |
 |------|--------|-------|------------|
-| 2026-06-15 | Presentation | 12:30-13:30 Brussels / 11:30-12:30 UK | using LLMs for scraping data |
-| 2026-06-29 | tbd | 12:30-13:30 Brussels / 11:30-12:30 UK | |
+| 2026-09-03 | TBD | 1 pm BST / 2 pm CEST | First session back from summer break |
+| 2026-09-17 | TBD | 1 pm BST / 2 pm CEST | |
+| 2026-10-01 | TBD | 1 pm BST / 2 pm CEST | |
+| 2026-10-15 | TBD | 1 pm BST / 2 pm CEST | |
+
+
 
 ## Past
 
@@ -28,4 +34,4 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 | 2026-05-04 | TBD |  Cancelled  | |
 | 2026-04-20 | Journal club | Bayesian Statistics and Error Propagation | [Paper](https://arxiv.org/pdf/2512.17792), [Meeting notes](meetings/2026-04-20.md) |
 | 2026-06-01 | Discussion | Practical Data and Code Organization for Reproducible Materials Research | [Meeting notes](meetings/2026-06-01.md) |
-
+| 2026-06-22 | Presentation | Using Large Language Models for Chemical Data Extraction | [Paper](https://arxiv.org/abs/2407.17632), [Meeting notes](meetings/2026-06-22.md) |
