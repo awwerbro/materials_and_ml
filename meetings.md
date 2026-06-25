@@ -30,7 +30,6 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 
 | Date | Format | Topic | Notes |
 |------|--------|-------|-------|
-| 2026-06-15 | Presentation | 12:30-13:30 Brussels / 11:30-12:30 UK | using LLMs for scraping data |
 | 2026-05-18 | Discussion | Smoothing experimental data | [Meeting notes](meetings/2026-05-18.md), [Code](code/260518/README.md), [Slides](meetings/260518.pptx) |
 | 2026-05-04 | TBD |  Cancelled  | |
 | 2026-04-20 | Journal club | Bayesian Statistics and Error Propagation | [Paper](https://arxiv.org/pdf/2512.17792), [Meeting notes](meetings/2026-04-20.md) |
