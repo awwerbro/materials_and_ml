@@ -19,7 +19,6 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 
 | Date | Format | Time | Description |
 |------|--------|-------|------------|
-| 2026-09-03 | Short paper presentation and discussion | 1 pm BST / 2 pm CEST | Self-driving labs: sense or nonsense? |
 | 2026-09-18 | Presentation | 1 pm BST / 2 pm CEST | AI/ML in XPS (note: on FRIDAY) |
 | 2026-10-01 | TBD | 1 pm BST / 2 pm CEST | tba |
 | 2026-10-15 | TBD | 1 pm BST / 2 pm CEST | tba |
@@ -35,3 +34,4 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 | 2026-04-20 | Journal club | Bayesian Statistics and Error Propagation | [Paper](https://arxiv.org/pdf/2512.17792), [Meeting notes](meetings/2026-04-20.md) |
 | 2026-06-01 | Discussion | Practical Data and Code Organization for Reproducible Materials Research | [Meeting notes](meetings/2026-06-01.md) |
 | 2026-06-22 | Presentation | Using Large Language Models for Chemical Data Extraction | [Paper](https://arxiv.org/abs/2407.17632), [Meeting notes](meetings/2026-06-22.md) |
+| 2026-09-03 | Short paper presentation and discussion | Self-driving labs: sense or nonsense? | [Paper](https://doi.org/10.1021/acs.chemrev.4c00055), [Meeting notes](meetings/2026-09-03.md) |
