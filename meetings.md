@@ -20,9 +20,9 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 | Date | Format | Time | Description |
 |------|--------|-------|------------|
 | 2026-09-03 | Short paper presentation and discussion | 1 pm BST / 2 pm CEST | Self-driving labs: sense or nonsense? |
-| 2026-09-17 | TBD | 1 pm BST / 2 pm CEST | tba |
+| 2026-09-18 | Presentation | 1 pm BST / 2 pm CEST | AI/ML in XPS (note: on FRIDAY) |
 | 2026-10-01 | TBD | 1 pm BST / 2 pm CEST | tba |
-| 2026-10-15 | TBD | 1 pm BST / 2 pm CEST | |
+| 2026-10-15 | TBD | 1 pm BST / 2 pm CEST | tba |
 
 
 
