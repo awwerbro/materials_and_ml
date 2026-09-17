@@ -19,10 +19,9 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 
 | Date | Format | Time | Description |
 |------|--------|-------|------------|
-| 2026-09-18 | Presentation | 1 pm BST / 2 pm CEST | AI/ML in XPS (note: on FRIDAY) |
-| 2026-10-01 | TBD | 1 pm BST / 2 pm CEST | tba |
-| 2026-10-15 | TBD | 1 pm BST / 2 pm CEST | tba |
-
+| 2026-09-18 | Presentation | 1 pm BST / 2 pm CEST | Tackling real-world crystal structure prediction from powder X-ray diffraction data ([https://doi.org/10.1039/d6dd00088f](https://doi.org/10.1039/d6dd00088f)) |
+| 2026-10-01 | Lecture style | 1 pm BST / 2 pm CEST | Jasymmetrically reweighted penalized least squares smoothing |
+| 2026-10-16 | Presentation | 1 pm BST / 2 pm CEST | Deep learning for automated XPS analysis ([https://doi.org/10.1016/j.elspec.2026.147624](https://doi.org/10.1016/j.elspec.2026.147624)) |
 
 
 ## Past
