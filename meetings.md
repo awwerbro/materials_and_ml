@@ -20,7 +20,6 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 | Date | Format | Time | Description |
 |------|--------|-------|------------|
 | 2026-09-18 | Presentation | 1 pm BST / 2 pm CEST | Tackling real-world crystal structure prediction from powder X-ray diffraction data ([https://doi.org/10.1039/d6dd00088f](https://doi.org/10.1039/d6dd00088f)) |
-| 2026-10-01 | Lecture style | 1 pm BST / 2 pm CEST | Jasymmetrically reweighted penalized least squares smoothing |
 | 2026-10-16 | Presentation | 1 pm BST / 2 pm CEST | Deep learning for automated XPS analysis ([https://doi.org/10.1016/j.elspec.2026.147624](https://doi.org/10.1016/j.elspec.2026.147624)) |
 
 
@@ -34,3 +33,4 @@ Reading material is announced through the [mailing list](mailinglist.md) the wee
 | 2026-06-01 | Discussion | Practical Data and Code Organization for Reproducible Materials Research | [Meeting notes](meetings/2026-06-01.md) |
 | 2026-06-22 | Presentation | Using Large Language Models for Chemical Data Extraction | [Paper](https://arxiv.org/abs/2407.17632), [Meeting notes](meetings/2026-06-22.md) |
 | 2026-09-03 | Short paper presentation and discussion | Self-driving labs: sense or nonsense? | [Paper](https://doi.org/10.1021/acs.chemrev.4c00055), [Meeting notes](meetings/2026-09-03.md) |
+| 2026-10-01 | Lecture style | arPLS baseline correction | [Paper](https://doi.org/10.1039/c4an01061b), [Demo notebook](https://colab.research.google.com/drive/1BqKSirKvoHp3z57vtKybTcNx90dYF7sK?usp=sharing), [Meeting notes](meetings/2026-10-01.md), [Slides](meetings/291001.pptx) |
